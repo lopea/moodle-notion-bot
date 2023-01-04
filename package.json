@@ -1,0 +1,19 @@
+{
+  "name": "moodle-notion-bot",
+  "version": "1.0.0",
+  "description": "Queries data from moodle powered services and converts it to notion friendly data ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopea/moodle-notion-bot.git"
+  },
+  "author": "Javier Sandoval (lopea)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lopea/moodle-notion-bot/issues"
+  },
+  "homepage": "https://github.com/lopea/moodle-notion-bot#readme"
+}
